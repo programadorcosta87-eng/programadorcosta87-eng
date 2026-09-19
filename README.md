@@ -33,3 +33,9 @@ Principais tecnologias que utilizo no dia a dia:
   <strong>Também trabalho com:</strong><br>
   PWA • Netlify • Interfaces modernas • Aplicações web funcionais • Integração com IA
 </div>
+
+<div align="center">
+
+![Pacman contribution graph](https://pacman.abozanona.me?username=programadorcosta87-eng)
+
+</div>
