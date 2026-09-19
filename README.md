@@ -39,8 +39,3 @@ Principais tecnologias que utilizo no dia a dia:
 ![Pacman contribution graph](https://pacman.abozanona.me?username=programadorcosta87-eng)
 
 </div>
-<div align="center">
-
-![Bomberman contribution graph](https://pacman.abozanona.me?username=programadorcosta87-eng&game=bomberman)
-
-</div>
