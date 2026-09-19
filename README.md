@@ -48,38 +48,11 @@
 
 <br>
 
-<h2 align="center">🚀 Projetos em destaque</h2>
-
 <div align="center">
 
-| Projeto | Descrição | Tecnologias |
-|---------|-----------|-------------|
-| **[Nexo.ai](https://github.com/programadorcosta87-eng/Nexo.ai)** | Hub de IAs organizado por categoria (PWA) | HTML • CSS • JS |
-| **[CyberDoctor](https://github.com/programadorcosta87-eng/CyberDoctor)** | Plataforma de treinamento em Cibersegurança | React • TypeScript • Vite |
-| **[CalculaJuros](https://github.com/programadorcosta87-eng/CalculaJuros)** | Calculadora de juros simples e compostos (PWA) | React • TypeScript • Tailwind |
-| **[DR-Planner](https://github.com/programadorcosta87-eng/DR-Planner)** | Controle financeiro pessoal com gráficos | TypeScript • PWA |
-| **[DR-Salgados](https://github.com/programadorcosta87-eng/DR-Salgados)** | Cardápio digital com pedidos em tempo real | HTML • Firebase |
-| **[Catálogo Programador Costa](https://github.com/programadorcosta87-eng/Catalogo-programador-costa)** | Landing page profissional de serviços | HTML • CSS • JS |
+![Pacman contribution graph](https://pacman.abozanona.me?username=programadorcosta87-eng)
 
 </div>
-
----
-
-<br>
-
-<!-- Animação de contribuição (Snake) -->
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/programadorcosta87-eng/programadorcosta87-eng/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/programadorcosta87-eng/programadorcosta87-eng/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/programadorcosta87-eng/programadorcosta87-eng/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>
-
-<br>
-
-<!-- Versão Pacman (caso prefira) -->
-<!-- ![Pacman contribution graph](https://pacman.abozanona.me?username=programadorcosta87-eng) -->
 
 <br>
 
