@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&height=60&lines=Front-end+Developer;HTML+%7C+CSS+%7C+JavaScript+%7C+TypeScript;React+%7C+Tailwind+%7C+PWA;Criando+interfaces+modernas+e+funcionais" alt="Typing SVG" />
 </p>
 
-<h1 align="center">Welcome to my GitHub Profile 🖖</h1>
+<h1 align="center">Bem-vindo ao meu perfil</h1>
 
 <p align="center">
   Desenvolvedor Front-end focado em criar interfaces modernas e projetos funcionais.<br>
@@ -46,15 +46,3 @@ Principais tecnologias que utilizo no dia a dia:
   <strong>Também trabalho com:</strong><br>
   PWA • Netlify • Interfaces modernas • Aplicações web funcionais • Integração com IA
 </div>
-
----
-
-### 🔥 Linguagens mais usadas
-
-<div align="center">
-  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=programadorcosta87-eng&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</div>
-
----
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e293b,100:0f172a&height=150&section=footer" width="100%" />
