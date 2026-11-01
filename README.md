@@ -7,7 +7,7 @@
 <h1 align="center">Bem-vindo ao meu perfil</h1>
 
 <p align="center">
-  Desenvolvedor Front-end focado em criar interfaces modernas e projetos funcionais.<br>
+  Desenvolvedor Full-Stack focado em criar interfaces modernas e projetos funcionais.<br>
   Trabalho com HTML, CSS, JavaScript, TypeScript, React, Tailwind e PWA.
 </p>
 
