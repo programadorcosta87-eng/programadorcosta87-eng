@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Front--end-Developer-38bdf8?style=for-the-badge&logo=react&logoColor=white" alt="Front-end Developer" />
+  <img src="https://img.shields.io/badge/Front--end-Developer-38bdf8?style=for-the-badge&logo=react&logoColor=white" alt="Full-Stack Developer" />
   <img src="https://img.shields.io/badge/HTML-CSS-JS-TypeScript-0f172a?style=for-the-badge" alt="HTML CSS JS TypeScript" />
   <img src="https://img.shields.io/badge/React-Tailwind-PWA-38bdf8?style=for-the-badge" alt="React Tailwind PWA" />
 </p>
