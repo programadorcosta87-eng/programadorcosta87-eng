@@ -8,13 +8,14 @@
 
 <p align="center">
   Desenvolvedor Full-Stack focado em criar interfaces modernas e projetos funcionais.<br>
-  Trabalho com HTML, CSS, JavaScript, TypeScript, React, Tailwind e PWA.
+  Trabalho com HTML, CSS, JavaScript, TypeScript, React, Tailwind, PWA, Banco de Dados e hospedagem na Vercel.
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Front--end-Developer-38bdf8?style=for-the-badge&logo=react&logoColor=white" alt="Full-Stack Developer" />
+  <img src="https://img.shields.io/badge/Full--Stack-Developer-38bdf8?style=for-the-badge&logo=react&logoColor=white" alt="Full-Stack Developer" />
   <img src="https://img.shields.io/badge/HTML-CSS-JS-TypeScript-0f172a?style=for-the-badge" alt="HTML CSS JS TypeScript" />
   <img src="https://img.shields.io/badge/React-Tailwind-PWA-38bdf8?style=for-the-badge" alt="React Tailwind PWA" />
+  <img src="https://img.shields.io/badge/Vercel-Database-0f172a?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel Database" />
 </p>
 
 ---
@@ -24,14 +25,14 @@
 Principais tecnologias que utilizo no dia a dia:
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,vite,firebase&theme=dark" alt="Skills" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,vite,firebase,vercel&theme=dark" alt="Skills" />
 </div>
 
 <br>
 
 <div align="center">
   <strong>Também trabalho com:</strong><br>
-  PWA • Netlify • Interfaces modernas • Aplicações web funcionais • Integração com IA
+  PWA • Netlify • Vercel • Banco de Dados • Interfaces modernas • Aplicações web funcionais • Integração com IA
 </div>
 
 <div align="center">
